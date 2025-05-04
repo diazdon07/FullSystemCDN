@@ -30,6 +30,10 @@
 Include your CDN script or embed the class code directly in your HTML file:
 
 ```html
+<script src="https://raw.githubusercontent.com/diazdon07/FullSystemCDN/refs/heads/main/cdmBox.js?token=GHSAT0AAAAAAC53VO3DXITY2TYH3EOQESDK2AXHXSA"></script>
+```
+or
+```html
 <script src="path-to-your-cdn/cmdbox.js"></script>
 ```
 
